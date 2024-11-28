@@ -6,6 +6,8 @@
 [Русский](readmes/READMEru.md)
 [Українська](readmes/READMEuk.md)
 [Türkçe](readmes/READMEtr.md)
+[Deutsch](readmes/READMEde.md)
+
 
 ## I'm active on:
 
